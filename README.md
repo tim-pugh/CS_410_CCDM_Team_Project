@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+A CS410 (Cloud and Cluster Data Managment) team project to implement queries on CouchDB.
 
-You can use the [editor on GitHub](https://github.com/ElijahRW/CS_410_CCDM_Team_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To run the queries you'll need a CouchDB instance running, modify the IP address of the queries, and obtain the username and password credentials, and load up the data using the xml to json parser.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can get a instance hosted on Google Cloud Platform or create a instance on your own resources. We opted to deploy our instance on GCP and have the instance ready for deployment.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElijahRW/CS_410_CCDM_Team_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The username and password has been changed and has been archived for safe keeping, so the documented one will not work. As this was a simple class demo that used a VM that could be shutdown after a pre-recorded video, we opted not to obfuscate the credentials.

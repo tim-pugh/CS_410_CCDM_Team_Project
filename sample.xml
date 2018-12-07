@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PROX3DB SYSTEM "prox3db.dtd">
+<PROX3DB>
+    <OBJECTS>
+        <OBJECT ID="1"/>
+        <OBJECT ID="2"/>
+        <OBJECT ID="3"/>
+        <OBJECT ID="4"/>
+        <OBJECT ID="5"/>
+        <OBJECT ID="6"/>
+        <OBJECT ID="7"/>
+        <OBJECT ID="8"/>
+        <OBJECT ID="9"/>
+        <OBJECT ID="10"/>
+        <OBJECT ID="11"/>
+        <OBJECT ID="12"/>
+        <OBJECT ID="13"/>
+        <OBJECT ID="14"/>
+        <OBJECT ID="15"/>
+        <OBJECT ID="16"/>
+        <OBJECT ID="17"/>
+        <OBJECT ID="18"/>
+        <OBJECT ID="19"/>
+        <OBJECT ID="20"/>
+        <OBJECT ID="21"/>
+        <OBJECT ID="22"/>
+        <OBJECT ID="23"/>
+        <OBJECT ID="24"/>
+        <OBJECT ID="25"/>
+        <OBJECT ID="26"/>
+        <OBJECT ID="27"/>
+        <OBJECT ID="28"/>
+        <OBJECT ID="29"/>
+        <OBJECT ID="30"/>
+        <OBJECT ID="31"/>
+        <OBJECT ID="32"/>
+        <OBJECT ID="33"/>
+        <OBJECT ID="34"/>
+        <OBJECT ID="35"/>
+        <OBJECT ID="36"/>
+        <OBJECT ID="37"/>
+        <OBJECT ID="38"/>
+        <OBJECT ID="39"/>
+        <OBJECT ID="40"/>
+        <OBJECT ID="41"/>
+        <OBJECT ID="42"/>
+        <OBJECT ID="43"/>
+        <OBJECT ID="44"/>
+        <OBJECT ID="45"/>
+        <OBJECT ID="46"/>
+        <OBJECT ID="47"/>
+        <OBJECT ID="48"/>
+        <OBJECT ID="49"/>
+        <OBJECT ID="50"/>
+        <OBJECT ID="51"/>
+        <OBJECT ID="52"/>
+        <OBJECT ID="53"/>
+        <OBJECT ID="54"/>
+        <OBJECT ID="55"/>
+        <OBJECT ID="56"/>
+        <OBJECT ID="57"/>
+        <OBJECT ID="58"/>
+        <OBJECT ID="59"/>
+        <OBJECT ID="60"/>
+        <OBJECT ID="61"/>
+        <OBJECT ID="62"/>
+        <OBJECT ID="63"/>
+        <OBJECT ID="64"/>
+        <OBJECT ID="65"/>
+        <OBJECT ID="66"/>
+        <OBJECT ID="67"/>
+        <OBJECT ID="68"/>
+        <OBJECT ID="69"/>
+        <OBJECT ID="70"/>
+        <OBJECT ID="71"/>
+        <OBJECT ID="72"/>
+        <OBJECT ID="73"/>
+        <OBJECT ID="74"/>
+        <OBJECT ID="75"/>
+        <OBJECT ID="76"/>
+        <OBJECT ID="77"/>
+        <OBJECT ID="78"/>
+        <OBJECT ID="79"/>
+        <OBJECT ID="80"/>
+        <OBJECT ID="81"/>
+        <OBJECT ID="82"/>
+        <OBJECT ID="83"/>
+        <OBJECT ID="84"/>
+        <OBJECT ID="85"/>
+        <OBJECT ID="86"/>
+        <OBJECT ID="87"/>
+        <OBJECT ID="88"/>
+        <OBJECT ID="89"/>
+        <OBJECT ID="90"/>
+        <OBJECT ID="91"/>
+        <OBJECT ID="92"/>
+        <OBJECT ID="93"/>
+        <OBJECT ID="94"/>
+        <OBJECT ID="95"/>
+        <OBJECT ID="96"/>
+        <OBJECT ID="97"/>
+        <OBJECT ID="98"/>
+        <OBJECT ID="99"/>
+        <OBJECT ID="100"/>
+    </OBJECTS>
+
+        <LINKS>
+        <LINK ID="1" O1-ID="728511" O2-ID="1200022"/>
+        <LINK ID="2" O1-ID="728512" O2-ID="1200023"/>
+        <LINK ID="3" O1-ID="728513" O2-ID="1200024"/>
+        <LINK ID="4" O1-ID="728514" O2-ID="1200025"/>
+        <LINK ID="5" O1-ID="728516" O2-ID="1194519"/>
+        <LINK ID="6" O1-ID="728517" O2-ID="1194519"/>
+        <LINK ID="7" O1-ID="728515" O2-ID="1194519"/>
+        <LINK ID="8" O1-ID="728516" O2-ID="1194522"/>
+        <LINK ID="9" O1-ID="728518" O2-ID="1194524"/>
+        <LINK ID="10" O1-ID="728519" O2-ID="1194524"/>
+        <LINK ID="11" O1-ID="728520" O2-ID="1194524"/>
+        <LINK ID="12" O1-ID="728521" O2-ID="1194524"/>
+        <LINK ID="13" O1-ID="728522" O2-ID="1194524"/>
+        <LINK ID="14" O1-ID="728518" O2-ID="1194525"/>
+        <LINK ID="15" O1-ID="728523" O2-ID="1194525"/>
+        <LINK ID="16" O1-ID="728524" O2-ID="1194525"/>
+        <LINK ID="17" O1-ID="728527" O2-ID="1194525"/>
+        <LINK ID="18" O1-ID="728525" O2-ID="1194525"/>
+        <LINK ID="19" O1-ID="728526" O2-ID="1194525"/>
+        <LINK ID="20" O1-ID="728528" O2-ID="1194527"/>
+        <LINK ID="21" O1-ID="728520" O2-ID="1194527"/>
+        <LINK ID="22" O1-ID="728526" O2-ID="1194527"/>
+        <LINK ID="23" O1-ID="728521" O2-ID="1194527"/>
+        <LINK ID="24" O1-ID="728528" O2-ID="1194528"/>
+        <LINK ID="25" O1-ID="728520" O2-ID="1194528"/>
+        <LINK ID="26" O1-ID="728526" O2-ID="1194528"/>
+        <LINK ID="27" O1-ID="728521" O2-ID="1194528"/>
+        <LINK ID="28" O1-ID="728520" O2-ID="1194529"/>
+        <LINK ID="29" O1-ID="728527" O2-ID="1194529"/>
+        <LINK ID="30" O1-ID="728529" O2-ID="1194530"/>
+        <LINK ID="31" O1-ID="728531" O2-ID="1194530"/>
+        <LINK ID="32" O1-ID="728527" O2-ID="1194530"/>
+        <LINK ID="33" O1-ID="728530" O2-ID="1194530"/>
+        <LINK ID="34" O1-ID="728522" O2-ID="1194530"/>
+        <LINK ID="35" O1-ID="728532" O2-ID="1194532"/>
+        <LINK ID="36" O1-ID="728533" O2-ID="1194533"/>
+        <LINK ID="37" O1-ID="728534" O2-ID="1194540"/>
+        <LINK ID="38" O1-ID="728535" O2-ID="1194540"/>
+        <LINK ID="39" O1-ID="728536" O2-ID="1"/>
+        <LINK ID="40" O1-ID="728537" O2-ID="1"/>
+        <LINK ID="41" O1-ID="1" O2-ID="1185275"/>
+        <LINK ID="42" O1-ID="728538" O2-ID="2"/>
+        <LINK ID="43" O1-ID="2" O2-ID="1185275"/>
+        <LINK ID="44" O1-ID="728538" O2-ID="3"/>
+        <LINK ID="45" O1-ID="3" O2-ID="1185275"/>
+        <LINK ID="46" O1-ID="728538" O2-ID="4"/>
+        <LINK ID="47" O1-ID="728539" O2-ID="4"/>
+        <LINK ID="48" O1-ID="4" O2-ID="1185275"/>
+        <LINK ID="49" O1-ID="728540" O2-ID="5"/>
+        <LINK ID="50" O1-ID="5" O2-ID="1185275"/>
+        <LINK ID="51" O1-ID="728541" O2-ID="6"/>
+        <LINK ID="52" O1-ID="728542" O2-ID="6"/>
+        <LINK ID="53" O1-ID="6" O2-ID="1185275"/>
+        <LINK ID="54" O1-ID="728543" O2-ID="7"/>
+        <LINK ID="55" O1-ID="7" O2-ID="1185275"/>
+        <LINK ID="56" O1-ID="728544" O2-ID="8"/>
+        <LINK ID="57" O1-ID="728545" O2-ID="8"/>
+        <LINK ID="58" O1-ID="8" O2-ID="1185275"/>
+        <LINK ID="59" O1-ID="728546" O2-ID="9"/>
+        <LINK ID="60" O1-ID="9" O2-ID="1185275"/>
+        <LINK ID="61" O1-ID="728547" O2-ID="10"/>
+        <LINK ID="62" O1-ID="10" O2-ID="1185275"/>
+        <LINK ID="63" O1-ID="728548" O2-ID="11"/>
+        <LINK ID="64" O1-ID="728549" O2-ID="11"/>
+        <LINK ID="65" O1-ID="728550" O2-ID="11"/>
+        <LINK ID="66" O1-ID="728551" O2-ID="11"/>
+        <LINK ID="67" O1-ID="11" O2-ID="1185275"/>
+        <LINK ID="68" O1-ID="728554" O2-ID="12"/>
+        <LINK ID="69" O1-ID="728553" O2-ID="12"/>
+        <LINK ID="70" O1-ID="728552" O2-ID="12"/>
+        <LINK ID="71" O1-ID="12" O2-ID="1185275"/>
+        <LINK ID="72" O1-ID="728555" O2-ID="13"/>
+        <LINK ID="73" O1-ID="13" O2-ID="1185275"/>
+        <LINK ID="74" O1-ID="728556" O2-ID="14"/>
+        <LINK ID="75" O1-ID="728557" O2-ID="14"/>
+        <LINK ID="76" O1-ID="728558" O2-ID="14"/>
+        <LINK ID="77" O1-ID="14" O2-ID="1185275"/>
+        <LINK ID="78" O1-ID="728559" O2-ID="15"/>
+        <LINK ID="79" O1-ID="728560" O2-ID="15"/>
+        <LINK ID="80" O1-ID="728561" O2-ID="15"/>
+        <LINK ID="81" O1-ID="15" O2-ID="1185275"/>
+        <LINK ID="82" O1-ID="728562" O2-ID="16"/>
+        <LINK ID="83" O1-ID="16" O2-ID="1185275"/>
+        <LINK ID="84" O1-ID="728563" O2-ID="17"/>
+        <LINK ID="85" O1-ID="728564" O2-ID="17"/>
+        <LINK ID="86" O1-ID="17" O2-ID="1185275"/>
+        <LINK ID="87" O1-ID="728565" O2-ID="18"/>
+        <LINK ID="88" O1-ID="728566" O2-ID="18"/>
+        <LINK ID="89" O1-ID="728567" O2-ID="18"/>
+        <LINK ID="90" O1-ID="728568" O2-ID="18"/>
+        <LINK ID="91" O1-ID="728569" O2-ID="18"/>
+        <LINK ID="92" O1-ID="728570" O2-ID="18"/>
+        <LINK ID="93" O1-ID="728571" O2-ID="18"/>
+        <LINK ID="94" O1-ID="728572" O2-ID="18"/>
+        <LINK ID="95" O1-ID="18" O2-ID="1185275"/>
+        <LINK ID="96" O1-ID="728573" O2-ID="19"/>
+        <LINK ID="97" O1-ID="728574" O2-ID="19"/>
+        <LINK ID="98" O1-ID="19" O2-ID="1185275"/>
+        <LINK ID="99" O1-ID="728575" O2-ID="20"/>
+        <LINK ID="100" O1-ID="728576" O2-ID="20"/>
+    </LINKS>
+    <ATTRIBUTES>
+        <ATTRIBUTE NAME="object-type" ITEM-TYPE="O" DATA-TYPE="str">
+            <ATTR-VALUE ITEM-ID="1">
+                <COL-VALUE>paper</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="2">
+                <COL-VALUE>paper</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="3">
+                <COL-VALUE>paper</COL-VALUE>
+            <ATTR-VALUE ITEM-ID="1137776">
+                <COL-VALUE>person</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1137777">
+                <COL-VALUE>person</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1137778">
+                <COL-VALUE>person</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1137779">
+                <COL-VALUE>person</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1113954">
+                <COL-VALUE>Meilin Zhu</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="796965">
+                <COL-VALUE>Hideo Matsuda</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="817486">
+                <COL-VALUE>Richard Hull 0002</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="972224">
+                <COL-VALUE>Amanda R. Askew</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383822">
+                <COL-VALUE>Counting Quantifiers, Successor Relations, and Logarithmic Space.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383823">
+                <COL-VALUE>Lower Bounds with Smaller Domain Size On Concurrent Write Parallel Machines.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383824">
+                <COL-VALUE>Complexity Issues in Markov Decision Processes.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383825">
+                <COL-VALUE>Hard Examples for Bounded Depth Frege.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383826">
+                <COL-VALUE>Descriptive Complexity of #P Functions.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383827">
+                <COL-VALUE>The Complexity World below Logarithmic Space.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383828">
+                <COL-VALUE>Deterministic Amplification of Space-Bounded Probabilistic Algorithms.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="383829">
+                <COL-VALUE>Reducing P to a Sparse Set using a Constant Number of Queries Collapses P to L.</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070950">
+                <COL-VALUE>in-proceedings</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070951">
+                <COL-VALUE>author-of</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070952">
+                <COL-VALUE>in-proceedings</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070953">
+                <COL-VALUE>author-of</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070954">
+                <COL-VALUE>in-proceedings</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="1070955">
+                <COL-VALUE>author-of</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="887893">
+                <COL-VALUE>1991</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="887895">
+                <COL-VALUE>1994</COL-VALUE>
+            </ATTR-VALUE>
+            <ATTR-VALUE ITEM-ID="887899">
+                <COL-VALUE>1991</COL-VALUE>
+            </ATTR-VALUE>
+        </ATTRIBUTE>
+    </ATTRIBUTES>
+</PROX3DB>
+
